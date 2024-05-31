@@ -52,3 +52,7 @@ end
 ```
 
 ###### H6 - Wasting Everyone's Time
+
+- [x] Start GitHub Foundations course
+- [x] Revise Mardown
+- [ ] Complete GitHub Foundations course
